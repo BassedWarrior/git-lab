@@ -33,8 +33,11 @@ if __name__ == "__main__":
     main()
 ```
 
-<h3>Placeholder3</h3>
+<h3>Lists</h3>
 
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 <h2>References</h2>
