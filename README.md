@@ -13,6 +13,8 @@ bragging then falling short.
 
 ![Meta-Screenshot](/assets/images/Meta-Screenshot.png)
 
+![Meta-Screenshot2](/assets/images/Meta-Screenshot2.png)
+
 <h3>Code examples</h3>
 
 ```python
