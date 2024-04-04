@@ -8,13 +8,37 @@ capable of doing, but...this is compulsory. So here's to hoping I'm not
 bragging then falling short.
 
 <h2>Contents</h2>
+
 <h3>Images</h3>
+
 ![Meta-Screenshot](/assets/images/Meta-Screenshot.png)
-<h3>Placeholder2</h3>
+
+<h3>Code examples</h3>
+
+```python
+# Python code to add two numbers. NOT GOOD CODE.
+
+
+def sum(a, b) -> int:
+    """Sum two numbers. Not that hard."""
+    return a + b
+
+
+def main():
+    while input("Want sum more? ") in ["y", "Y"]:
+        print(f"Doing sum work: {sum(int(input('First number? ')), int(input('Second number? ')))}")
+        
+
+if __name__ == "__main__":
+    main()
+```
+
 <h3>Placeholder3</h3>
 
 
+
 <h2>References</h2>
+
 [Github documentation](https://docs.github.com/en)
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 [Git documentation](https://git-scm.com/doc)
